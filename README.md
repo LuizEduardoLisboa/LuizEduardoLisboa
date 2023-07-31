@@ -16,3 +16,6 @@
 <img align="center" alt="hmtl5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"
   />
 </div>
+
+
+Sou Luiz Eduardo, moro em São Paulo/SP (Zona Norte), tenho 19 anos, atualmente estou cursando Análise e Desenvolvimento de Sistemas na Unip no 4° semestre, em busca de experiência na área de programação.
