@@ -14,8 +14,11 @@
 <img align="center" alt="hmtl5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"  />
 <img align="center" alt="hmtl5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"  />
 <img align="center" alt="hmtl5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"  />
-</div>
 
 ![Snake animation](https://github.com/LuizEduardoLisboa/LuizEduardoLisboa/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+
 
 Sou Luiz Eduardo, moro em São Paulo/SP (Zona Norte), tenho 19 anos, atualmente estou cursando Análise e Desenvolvimento de Sistemas na Unip no 4° semestre, em busca de experiência na área de programação.
