@@ -21,4 +21,7 @@
 
 
 
+
+
+
 Sou Luiz Eduardo, moro em São Paulo/SP (Zona Norte), tenho 19 anos, atualmente estou cursando Análise e Desenvolvimento de Sistemas na Unip no 4° semestre, em busca de experiência na área de programação.
