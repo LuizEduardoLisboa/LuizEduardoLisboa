@@ -1,4 +1,4 @@
-### Olá, eu sou o Luiz Araújo! ✌️
+### Olá, eu sou Luiz Araújo! ✌️
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-araújo-40880224b/)
